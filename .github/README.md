@@ -1,18 +1,22 @@
 # Jupyter-Notebooks
 
-A Jupyter project managed by [uv](https://docs.astral.sh/uv/), with JupyterLab, NumPy, Matplotlib and a starter notebook that draws a chart.
+Using your own copy? Open `README.md` in this folder to start.
+
+A Jupyter project managed by [uv](https://docs.astral.sh/uv/), with JupyterLab, NumPy, Matplotlib and a starter notebook that draws a chart, plus instruction files for an AI assistant.
+
+*A language add-on: Jupyter notebooks set up with uv.*
 
 It's one of the example projects from [Mac Install Guide](https://mac.install.guide/developer-setup/starter-project).
 
 ## Get it
 
-**With a Set Up Your Mac app.** Set Up Your Mac for Python creates this project for you in `~/Projects/Jupyter-Notebooks` and installs JupyterLab, after it sets up Python. See [Set Up Your Mac for Python](https://mac.install.guide/set-up-your-mac/python).
+**With an app.** [Set Up Your Mac for Python](https://mac.install.guide/set-up-your-mac/python) creates this project for you and installs JupyterLab, after it sets up Python.
 
-**Without an app.** Click **Use this template** above to make your own copy on GitHub, or download the `.zip` from the latest release and unzip it into a folder of your own.
+**Without an app.** Make your own copy on GitHub with **Use this template**, or download the `.zip` from the latest release and unzip it into a folder of your own.
 
 ## Use it
 
-Double-click `Start-Jupyter.command`, or in a terminal `cd` into the folder and run `uv run jupyter lab`. More on [Mac Install Guide's Jupyter page](https://mac.install.guide/python/jupyter).
+Double-click `Start-Jupyter.command`, or open a terminal in the folder and type `uv run jupyter lab`. If macOS says it can't verify the file, `README.md` explains what to do. More on [Mac Install Guide's Jupyter page](https://mac.install.guide/python/jupyter).
 
 ## Feedback
 

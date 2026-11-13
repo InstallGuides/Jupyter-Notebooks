@@ -1,3 +1,11 @@
-.venv/
-.ipynb_checkpoints/
+# Secrets: never commit these
 .env
+
+# The Finder's view settings for each folder
+.DS_Store
+
+# Python: the project environment uv creates
+.venv/
+
+# Jupyter's automatic notebook backups
+.ipynb_checkpoints/

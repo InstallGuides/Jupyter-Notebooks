@@ -1,7 +1,7 @@
 [project]
 name = "jupyter-notebooks"
 version = "0.1.0"
-description = "Your Jupyter notebooks, created by Set Up Your Mac."
+description = "Jupyter notebooks managed with uv."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
