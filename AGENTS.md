@@ -13,7 +13,7 @@ This is **Jupyter-Notebooks**, a folder of Jupyter notebooks managed with uv. Th
 
 - **Start Jupyter** with `uv run jupyter lab`, never plain `jupyter lab`, which may be missing or start a different Jupyter. `Start-Jupyter.command` does the same when double-clicked.
 - **Add a package** with `uv add <package>`, never `pip install` or `%pip install`. Remove one with `uv remove <package>`.
-- **New notebooks** are saved in this folder. `pyproject.toml` lists the packages and `uv.lock` pins their versions.
+- **New notebooks** are saved in this folder. `pyproject.toml` lists the packages. There is no lock file on purpose, so a new setup gets current versions; `uv add` creates `uv.lock` when the user first adds a package, and that's fine to keep.
 - JupyterLab keeps running until its terminal window is closed. Tell the user how to stop it.
 
 ## Before you change anything: Git
