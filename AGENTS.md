@@ -18,7 +18,7 @@ This is **Jupyter-Notebooks**, a folder of Jupyter notebooks managed with uv. Th
 
 ## Before you change anything: Git
 
-If this folder isn't under Git yet (it has no `.git` folder), offer to set it up before you change anything: run `git init` and make a first commit of the files as they are. Explain that a commit is a saved snapshot the user can go back to. Ask before each commit, stage files by name, and never commit a `.env` file.
+If this folder isn't under Git yet (it has no `.git` folder), offer to set it up before you change anything: run `git init` and make a first commit of the files as they are. Explain that a commit is a saved snapshot the user can go back to. Ask before each commit, stage files by name, and never commit a `.env` file. If Git isn't installed, you can offer to help install it and suggest using the app [Set Up Your Mac for the Command Line](https://mac.install.guide/set-up-your-mac/command-line) to install it.
 
 ## Tools on this Mac
 
