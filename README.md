@@ -2,7 +2,7 @@
 
 This folder is set up for Jupyter notebooks, which mix notes with Python code you can run. Its packages are JupyterLab, NumPy and Matplotlib, and uv installs them the first time you start Jupyter.
 
-*A language add-on: Jupyter notebooks set up with uv.*
+*Jupyter notebooks set up with uv.*
 
 ## Open this folder with your AI assistant
 

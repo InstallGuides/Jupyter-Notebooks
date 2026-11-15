@@ -4,7 +4,7 @@ Using your own copy? Open `README.md` in this folder to start.
 
 A Jupyter project managed by [uv](https://docs.astral.sh/uv/), with JupyterLab, NumPy, Matplotlib and a starter notebook that draws a chart, plus instruction files for an AI assistant.
 
-*A language add-on: Jupyter notebooks set up with uv.*
+*Jupyter notebooks set up with uv.*
 
 It's one of the example projects from [Mac Install Guide](https://mac.install.guide/developer-setup/starter-project).
 
